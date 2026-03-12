@@ -32,7 +32,7 @@ Detailed explanations and code snippets are organized into their respective Mark
 │　　├── 競技プログラミング対策/  
 │　　│　　└── 動的計画法.md  
 │　　│  
-│　　├── 四則演算などの演算子.md  
+│　　├── Goとは.md  
 │　　├── 型・変数.md  
 │　　├── 条件分岐.md  
 │　　├── 標準ライブラリ.md  
