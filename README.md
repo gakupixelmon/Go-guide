@@ -33,7 +33,7 @@ Detailed explanations and code snippets are organized into their respective Mark
 │　　│　　└── 動的計画法.md  
 │　　│  
 │　　├── 第１章_Goとは.md  
-│　　├── 第2章_型・変数.md  
+│　　├── 第２章_型・変数.md  
 │　　├── 条件分岐.md  
 │　　├── 標準ライブラリ.md  
 │　　├── 繰り返し.md  
