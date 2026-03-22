@@ -36,9 +36,9 @@ Detailed explanations and code snippets are organized into their respective Mark
 │　　├── 第２章_型・変数.md  
 │　　├── 第３章_条件分岐.md  
 │　　├── 第４章_配列.md  
+│　　├── 第５章_関数.md  
 │　　├── 標準ライブラリ.md  
 │　　├── 繰り返し.md  
-│　　├── 関数.md
 │　　├── Null安全.md
 │　　└── クラスとプロパティ.md
 │  
